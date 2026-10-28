@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">ABITUDINE</string>
+
+    <!-- Encabezado -->
+    <string name="titulo_menu">Nuestro menú</string>
+    <string name="subtitulo_menu">Elegí lo que quieras y armá tu pedido</string>
+
+    <!-- Productos -->
+    <string name="producto_cafe">Café con leche</string>
+    <string name="precio_cafe">$2500</string>
+    <string name="producto_medialuna">Medialuna</string>
+    <string name="precio_medialuna">$1200</string>
+    <string name="producto_tostado">Tostado de jamón y queso</string>
+    <string name="precio_tostado">$4500</string>
+
+    <!-- Botones y pedido -->
+    <string name="boton_agregar">Agregar</string>
+    <string name="titulo_pedido">Tu pedido</string>
+    <string name="pedido_vacio">Todavía no agregaste nada</string>
 </resources>
